@@ -1,4 +1,4 @@
-# ContextFusion: Infrared and Visible Image Fusion with Contextual Guidance and Shape Preserving Decoding
+# ContextFusion: Multimodal Image Fusion with Contextual Guidance and Shape Preserving Decoding
 
 [Muchen Xu](https://github.com/stream2005), [Haowen Guo](https://github.com/hww9), [Shimin Shu](), [Botao Shen](https://github.com/shenbt), [Yuexin Song](https://github.com/songyuexin666-wq), Jun Yang∗
 
