@@ -142,10 +142,10 @@ ContextFusion/
 ├── test_result/                 # Output fusion results
 ├── runs/                        # TensorBoard logs
 ├── train.py                     # Training script
-├── test.py                      # Testing/inference script
-├── utils.py                     # Utility functions
+├── test.py                      # Testing script
+├── utils.py                     
 ├── lsnet.py                     # Feature extraction blocks
-├── ska.py                       # Selective kernel attention
+├── ska.py                      
 └── requirements.txt             # Dependencies
 ```
 
