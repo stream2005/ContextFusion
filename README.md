@@ -1,6 +1,6 @@
 # ContextFusion: Multimodal Image Fusion with Contextual Guidance and Shape Preserving Decoding
 
-[Muchen Xu](https://github.com/stream2005), [Haowen Guo](https://github.com/hww9), [Shimin Shu](), [Botao Shen](https://github.com/shenbt), [Yuexin Song](https://github.com/songyuexin666-wq), Jun Yang∗
+[Muchen Xu](https://github.com/stream2005), [Haowen Guo](https://github.com/hww9), [Shimin Shu](https://github.com/Ismura), [Botao Shen](https://github.com/shenbt), [Yuexin Song](https://github.com/songyuexin666-wq), Jun Yang∗
 
 School of Artificial Intelligence, China University of Mining and Technology-Beijing, No. 11 Ding, Xueyuan Road, Beijing, 100083, China
 
